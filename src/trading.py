@@ -53,7 +53,7 @@ def data_manipulation(df1, df2, country_list):
     logger.info("Starting data_manipulation function")
     fil_df_1 = df1.filter((df1.country == country_list[0]) | (df1.country == country_list[1]))
     logger.info(f"Filtering countries {country_list} from dataframe")
-    final_df_1 = fil_df_1.drop('email')
+    final_df_1 = fil_df_1.drop('first_name').drop('last_name')
     final_df_2 = df2.drop('cc_n')
     join_df = final_df_1.join(final_df_2, ['id'], "inner")
     fin_df = join_df.withColumnRenamed("btc_a", "bitcoin_address").withColumnRenamed("cc_t", "credit_card_type") \

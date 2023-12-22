@@ -1,20 +1,20 @@
-[2023-12-22 12:18:01,330] INFO @ line 85: Main function starts
-[2023-12-22 12:18:01,330] INFO @ line 45: Function check_file_exists
-[2023-12-22 12:18:01,330] INFO @ line 47: Both the files exist
-[2023-12-22 12:18:01,330] INFO @ line 63: Inside start_spark_session function
-[2023-12-22 12:18:05,996] INFO @ line 68: Starting spark application
-[2023-12-22 12:18:05,997] INFO @ line 24: Starting read_csv_file function
-[2023-12-22 12:18:10,993] INFO @ line 27: Reading CSV File ../csv_files/dataset_one.csv
-[2023-12-22 12:18:10,993] INFO @ line 28: Ending read_csv_file function
-[2023-12-22 12:18:10,993] INFO @ line 63: Inside start_spark_session function
-[2023-12-22 12:18:10,999] INFO @ line 68: Starting spark application
-[2023-12-22 12:18:10,999] INFO @ line 24: Starting read_csv_file function
-[2023-12-22 12:18:11,250] INFO @ line 27: Reading CSV File ../csv_files/dataset_two.csv
-[2023-12-22 12:18:11,251] INFO @ line 28: Ending read_csv_file function
-[2023-12-22 12:18:11,251] INFO @ line 53: Starting data_manipulation function
-[2023-12-22 12:18:11,281] INFO @ line 55: Filtering countries ['Netherlands', 'United Kingdom'] from dataframe
-[2023-12-22 12:18:11,344] INFO @ line 61: Ending data_manipulation function
-[2023-12-22 12:18:11,344] INFO @ line 63: Inside start_spark_session function
-[2023-12-22 12:18:11,348] INFO @ line 68: Starting spark application
-[2023-12-22 12:18:12,212] INFO @ line 101: Ending spark application
-[2023-12-22 12:18:12,499] INFO @ line 104: Main function ends
+[2023-12-22 13:09:47,837] INFO @ line 85: Main function starts
+[2023-12-22 13:09:47,837] INFO @ line 45: Function check_file_exists
+[2023-12-22 13:09:47,837] INFO @ line 47: Both the files exist
+[2023-12-22 13:09:47,837] INFO @ line 63: Inside start_spark_session function
+[2023-12-22 13:09:51,849] INFO @ line 68: Starting spark application
+[2023-12-22 13:09:51,850] INFO @ line 24: Starting read_csv_file function
+[2023-12-22 13:09:56,203] INFO @ line 27: Reading CSV File ../csv_files/dataset_one.csv
+[2023-12-22 13:09:56,203] INFO @ line 28: Ending read_csv_file function
+[2023-12-22 13:09:56,203] INFO @ line 63: Inside start_spark_session function
+[2023-12-22 13:09:56,207] INFO @ line 68: Starting spark application
+[2023-12-22 13:09:56,207] INFO @ line 24: Starting read_csv_file function
+[2023-12-22 13:09:56,396] INFO @ line 27: Reading CSV File ../csv_files/dataset_two.csv
+[2023-12-22 13:09:56,397] INFO @ line 28: Ending read_csv_file function
+[2023-12-22 13:09:56,397] INFO @ line 53: Starting data_manipulation function
+[2023-12-22 13:09:56,424] INFO @ line 55: Filtering countries ['Netherlands', 'United Kingdom'] from dataframe
+[2023-12-22 13:09:56,479] INFO @ line 61: Ending data_manipulation function
+[2023-12-22 13:09:56,971] INFO @ line 63: Inside start_spark_session function
+[2023-12-22 13:09:56,977] INFO @ line 68: Starting spark application
+[2023-12-22 13:09:57,464] INFO @ line 101: Ending spark application
+[2023-12-22 13:09:57,825] INFO @ line 104: Main function ends
