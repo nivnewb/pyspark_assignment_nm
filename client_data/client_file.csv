@@ -1,0 +1,101 @@
+client_identifier,first_name,last_name,country,bitcoin_address,credit_card_type
+18,Richard,Drinan,United Kingdom,1ErM8yuF3ytzzxLy1uPvQuRveLBygxN15x,china-unionpay
+32,Wallis,Bamford,United Kingdom,12sxmYnPcADAXw1YkxdapRsft2PwHZke7A,maestro
+33,Saundra,Westall,United Kingdom,1GZ7QB7GUFSWnkBHmsj4C4EZYMWni6BVn4,mastercard
+34,Ewart,Rosengren,United Kingdom,12o8zrHx6snCPbtkoD9im4ozBtNkHRjeRV,visa-electron
+36,Daniel,Buckthorp,Netherlands,15X53Z9B9jUNrvFpbr7D554uSc5RL7Pnkg,diners-club-international
+62,Boyd,Barham,Netherlands,16qpYVt6YAAx4JYjzbA8SwTUHoTyB4twRF,jcb
+67,Lorry,Beavors,United Kingdom,12ya1ED93ApPBQRSCuqiehip8KfPEzXYaj,bankcard
+70,Freedman,Dresse,United Kingdom,1F8zXTEaf4AFpztMNzQZfo5NUreptaArTD,mastercard
+91,Audy,Eplate,United Kingdom,19MZSy1H8S4SaXsmSc3n7AaL2GxQkQkEZx,diners-club-carte-blanche
+105,Lacie,Infante,Netherlands,13j6FKzrLgumLUqeYH4baeY5qZgiwGW5UC,jcb
+108,Rhianna,Partkya,Netherlands,1RcsodKknm8thkCL6F4Vcmo7f4A7r6ydj,maestro
+109,Marnia,Dory,Netherlands,1HxV2jkyM3PXbsH4qGsVX3hwcAb4SMi4AD,jcb
+110,Rhody,Swindle,Netherlands,15cRJ4mzZd4Vgd33xbVjEtYw9c6f1WfGkC,china-unionpay
+124,Wyn,Darco,Netherlands,1CB7AdhTFBXmxuABm58yKmCmsvVqDjT9P1,maestro
+128,Vito,Napthine,Netherlands,16DbYq1KR8DVSQu5E9WU9ohuofBm5AHB2Q,diners-club-enroute
+165,Hilda,Heinecke,Netherlands,1KgbP1KXt5xs2sBLudwt7SZM14NZXN2yNd,jcb
+177,Alfredo,Wissbey,United Kingdom,1AJzqEgbbFh2TNLFZrWp1XgCY16gQQ3pBe,americanexpress
+189,Eduard,Tsar,Netherlands,1PktCHyic9G4aZu15Dd3N1PUf45wW4MmFs,jcb
+194,Irena,Greated,Netherlands,12KTfvJwTfnJn3dFtZ8KaLycn5noXetTFo,jcb
+197,Penrod,Volette,United Kingdom,1Q6UV84patYXfzEdAabyanzRe4cpNHdfkC,diners-club-enroute
+199,Ermanno,Surcombe,United Kingdom,1GYuD7hkkRkCeVcx9tMXzQ1LwfAUcHUQfN,jcb
+239,Hollyanne,Golley,Netherlands,19KrAve717pGFqYLiQvw63yV3Ar6XabJhD,mastercard
+248,Mattie,Brewer,Netherlands,16WS73NGVmHfpuWqPkEjN9pirzG9qkgvPJ,americanexpress
+255,Janie,Knowler,Netherlands,1JtjCw3Nj42ZPgeFkgFJAPcVCyvt4sMLPh,jcb
+293,Lia,Ropartz,Netherlands,1PJgSoTde2rSpfYRYpied1y35KVke7kvXo,jcb
+294,Lindie,MacAskie,United Kingdom,1DNGHS7oy3K38AnzdAUt8sDw2Dc4WWCj3e,maestro
+296,Hermia,Mc Pake,Netherlands,1A3rYCZeBfy1V1W3ypcfVdZm6TCU3TFkLv,jcb
+299,Ced,Antunez,Netherlands,1C74dmFYGZiSzsZH6Lw41bWCu8U3mTvcth,diners-club-carte-blanche
+326,Carlye,Alred,Netherlands,16tRkPChNu4RTqJ7tkZa52os2HZvh2hjif,americanexpress
+329,Morna,Nurny,United Kingdom,18nNxGMaqhqrt4sZs5h3fQDDLpJL5wopFy,solo
+345,Thedric,Costen,United Kingdom,17AGnU1HVmvAt8gwZ4PoF8bGiPS4ARbRxi,jcb
+354,Willow,Ochterlonie,Netherlands,16Q23WzZFnnADqSq9z2oRDJZE7SJ2bFHrS,diners-club-carte-blanche
+360,Blair,De Beauchemp,Netherlands,1DTzwp1kZCBx9FED2678d5g5ArrefirrXW,laser
+367,Marlow,Maghull,Netherlands,1FCv1LeZu798EhajuFMZg49zb5D7KTMZWE,mastercard
+379,Thurston,Jahnel,Netherlands,1HZN5ZVgPqK1iVLKVMxH658kZ3pBDBcEw,jcb
+390,Latashia,Blyde,United Kingdom,1FpFASo8TTHYuefzybjiNyDfuaFmBGoGwn,jcb
+406,Jeffy,Whitbread,Netherlands,1BbeY2TE3u7ARieG5FKuSZzbLFHyBkFoQF,americanexpress
+414,Jessalin,Gammons,United Kingdom,14mRf7cFYsFjerWYsVWEvGN2zRM7tsLVpT,jcb
+436,Pamella,O'Mannion,Netherlands,1xVt3FxfHQvzXPhXVp6VRSEydUUVzRWK7,laser
+450,Arte,Warrington,Netherlands,15wYxjYgszjPnSwa4b3nvkdLfdBMTprQ9y,mastercard
+462,Neddie,FitzAlan,Netherlands,13FaRnAGPb53jC6cw4dQF5qM8XTGRWrY6s,americanexpress
+467,Adelaida,Anderer,Netherlands,1HHBi9Yt592V74bU5PihuSGekNhGzNGaAw,solo
+482,Vevay,Claris,United Kingdom,1477584qcLw6e2TntjCVBXJAwnS5tUTQJb,visa-electron
+486,Hamish,Pech,Netherlands,1CUeR37xJkVY9jVoAh9UYJc4c85RpnNcmD,diners-club-enroute
+508,Cecilio,Saltsberger,United Kingdom,1N4UFev4krTiWmC1Sbygy1NdxrJxMDsm6D,switch
+513,Fielding,Ciccerale,Netherlands,18zM2XeTncgJJTm14LDhWbMeUE3nvA8NoD,jcb
+514,Margalit,Elie,Netherlands,191c14CjzgK9DZGE9viRPMyGDqhc2oR46F,mastercard
+529,Chucho,Hardiker,Netherlands,14TyQs6ta2MhC2erewxosQTjmrvn2P4Gzo,jcb
+548,Lissy,Featherstonehaugh,United Kingdom,1482bkXGupDD66ypoGjdVuewXr3BaK51fE,switch
+577,Carolee,Colquete,Netherlands,12EgsYruxuyrwHi6bDC9FXqzGAmuUawHKH,jcb
+582,Loralyn,Sneezum,United Kingdom,18rq3Gymm7G1gaSLarTBvigCCd1UAmWQP7,mastercard
+601,Poul,Kyncl,United Kingdom,14GghoTqBDngp1V9PjrdPakZnNZi8VZ8F6,jcb
+605,Kearney,Cahen,Netherlands,1EMUu7w62n5GzRTZ4ZGTUKMwLppUyrD2Pw,visa
+616,Daveen,Gwilt,Netherlands,1H168tEGqoEeeNDaWmNjyEiubqTz3ZdoKG,jcb
+621,Malissia,Hains,Netherlands,1MdkbruxnQR61UYstTpKsoqP3fUziVQwei,switch
+627,Emmaline,Daens,United Kingdom,1HBMpsqrFAcMedVt1kUwzvxjtVcExbiAdV,mastercard
+628,Claudia,Casseldine,Netherlands,14EWQTXkWhfiQKkKn5JuD5h3EqzLatXbsQ,jcb
+643,Pauly,English,Netherlands,1BqmYwtSwbG8qWUJyqn8TQPB4pWXAx3jMa,jcb
+656,Giralda,Shird,Netherlands,1PUPePBi6wUMGZomfTqcXojjwYQk7Ha2cu,mastercard
+665,Rosaleen,Klamp,United Kingdom,12SF66BTEEAYca9V2JFcty3WmsSksTTsSN,jcb
+691,Bobbie,Kidstoun,Netherlands,1BMrJy7Ac4pAyq8ciBFfGhATAgcHXaPb6P,jcb
+701,Noak,Whitters,Netherlands,1Jb4hNfMJy5g4hPtT8kQQ4bbhGdwTbnmjp,jcb
+706,Silvie,Waddilove,United Kingdom,1HHENRw3k9UaA8uVEKnT5dc46jaQcHwiLf,visa
+711,Charyl,Guesford,Netherlands,1HsSjH6FpNqbFRckMitfzzPMvXiKHDDL3p,jcb
+726,Shena,Barltrop,Netherlands,13LecqUHZxxptc47RXRDcvhDgQHwxqTKVV,solo
+733,Findlay,D'Aulby,United Kingdom,1MJkvsA6ebFvXFasuJxZvfKNBReLTsA3Kr,jcb
+749,Myrle,Belleny,Netherlands,17qnQP62quZFAzU7QXFpHjMugPcFyoMXHm,bankcard
+751,Cindee,Alliband,Netherlands,16pUgN3CTqFCLB2pmBSUjoxyZEreQu4AvB,jcb
+755,Katharina,Ranger,Netherlands,13MLLGGZBp6y24hg13bFA8org9qwwup2fK,americanexpress
+760,Steffi,Batham,Netherlands,1PapZUVtXEaqD14JtSUhhZcPWR61aNK9kS,jcb
+766,Aurilia,Faulkes,United Kingdom,1MMDugKsUTFEyrTGnoUQrcFCHARHkggVAw,diners-club-enroute
+774,Persis,Arrighetti,Netherlands,1Myco7rqZBPkR5XdyfqkPot9aPPvJvFZS9,switch
+781,Dulcea,Illingsworth,United Kingdom,16kmMSiv2d6K4VEat2VN1ifv3JhotXKMK6,jcb
+785,Menard,de Najera,Netherlands,12N2XC2Mxzu6eLd2CTQkS8NKtdYTXvr2kS,switch
+788,Corliss,Bickell,United Kingdom,16DZD1xnSSbwAm1mbLYJSp56d7Z1TEofZD,maestro
+798,Judah,Hugnin,Netherlands,15tgDNJrxLs78sVijcBeCriRURp24JDqB9,jcb
+803,Reinaldos,Dodd,United Kingdom,1Croxyx7soHCoDY5Q1ta5Wq9CuY7tK4aGV,mastercard
+812,Parsifal,Shorten,Netherlands,1Mr6usqpuYeS431Vzycq8GpwuMCipdP3mw,jcb
+837,Yulma,Downing,Netherlands,1E7ZJuTeuSG8Sj4ocNWMymJLERfD1qDYA7,jcb
+845,Obie,Mockett,Netherlands,18UeESWffKqdqg23yfZfZcYAkPVT6cmuD6,laser
+848,Randi,Lampe,United Kingdom,1CMFYs2K4EyHecdw7Z3oT6a56iVaKG1bM5,visa
+862,Pearline,Mazella,Netherlands,1GcWp25A1odq7XCoG6HyiCJ2UYDREWrgVP,solo
+864,Leonore,Lamartine,United Kingdom,13B25YDx2MSG2sUietvwkxzpov4XpDjqwC,jcb
+873,Lennie,McGillivrie,Netherlands,1N75fjtmFdQJmMpacg4oUdt7cWYJXpdKD1,china-unionpay
+881,Phaidra,Fenech,Netherlands,16y7pXoKxg3WrBumhLPq3JoTjhCNtCgEMq,solo
+894,Marys,Ciccone,Netherlands,1HTBF19dSGssNoC8VWcv3BWbBpi7jYvEZd,switch
+910,Gunther,Tremeer,United Kingdom,15Bowgs1P3hPwXvhfLCQEftuDmXG5Rfz71,visa-electron
+914,Quintus,Wellesley,Netherlands,16FJCTiriaZCgyfnWCiJnua1Bka3aBjgrt,jcb
+924,Justin,Bootland,United Kingdom,1GxYQAdNCqqnxJckfxnMapSaXrD7ktkHFv,diners-club-enroute
+928,Cletis,Mulvany,United Kingdom,16J36sqG4rFfabKcwBoxApRuEQUT3T9JPg,china-unionpay
+942,Dulcine,Crepin,Netherlands,1JK5tVtebu1Dd2gAXcTaS1UCB5BMGijuqa,jcb
+947,Jordon,Munt,United Kingdom,1BJQYwAftZ3UJJpRAERDCcgAkrUZNH6D7g,visa-electron
+952,Cale,Gomer,United Kingdom,18xzobimRTpaiVjfBajSGaG7JpZeGjzfug,mastercard
+954,Roanna,Izkovitz,Netherlands,1MQGXo6xCKnPkRfTyjUyrQ2b4DtxxgoKyG,jcb
+964,Akim,Tart,Netherlands,1HWtSdZgMPTEdzHTAhmnAcFHf3MTasz7zE,diners-club-carte-blanche
+966,Lesly,MacAllester,United Kingdom,18Mxz7iRKxcGqUyYprSWBEHPpRc5HPdAKa,bankcard
+972,Arnoldo,Bamb,United Kingdom,1HkNSAP8Jm58DBiboFDsv916XJCYsfLrdg,jcb
+981,Griffin,Schurcke,Netherlands,19158kwDCddVMpQPUKdLz33yfks1cKbKPE,diners-club-carte-blanche
+984,Bordy,Todeo,Netherlands,1LCEj6JuVMjBt6wstfNCofLwWgsgm99NMZ,visa-electron
+996,Colly,Bossons,United Kingdom,1DVbpgQBtf9ouzcCZoWmzLLXRXR56HMQva,jcb
