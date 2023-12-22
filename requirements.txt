@@ -1,0 +1,4 @@
+pyspark~=3.4.2
+pytest~=7.4.3
+chispa~=0.9.4
+setuptools~=60.2.0
